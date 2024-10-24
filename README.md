@@ -3,10 +3,10 @@ Together, my friend Amy and I completed an e-commerce website project named AurS
 
 
 <img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(1).png"  >
-<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(2).png" width="500" height="600">
-<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(4).png"  width="500" height="600">
-<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(5).png"  width="500" height="600">
-<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(6).png"  width="500" height="600">
-<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(7).png"  width="500" height="600">
-<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(16).png"  width="500" height="600">
-<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(17).png"  width="500" height="600">
+<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(2).png" >
+<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(4).png"  >
+<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(5).png"  >
+<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(6).png"  >
+<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(7).png"  >
+<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(16).png" >
+<img src="https://github.com/PayelDey13/E-commerce-Websites/blob/main/Screenshot%20(17).png" >
